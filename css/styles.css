@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+
+body{
+   background-image: url(https://i.pinimg.com/originals/36/0c/47/360c4734bc547892656614ae68f0fd9c.gif);
+   text-align: center;
+   background-size: 100% 100%;
+   height: 100vh;
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+   justify-content:center;
+   padding: 0;
+   margin: 0;
+}
+
+h1{
+    color: rgb(245, 3, 96);
+    font-style: italic;
+    font-family: sans-serif
+   
+}
+
+ .class #entrada{
+    font-style:italic;
+    font-family: sans-serif
+ }
+ button{
+   color : rgb(230, 8, 8);
+   border : 1px solid rgb(230, 138, 188);  
+   padding : 5px; 
+   font-size: 12px;
+   width: 150px; 
+   cursor: pointer;
+}
+main{
+   background-color: rgb(163, 52, 52), 
+}
+.chave {
+   text-align : center;
+}
+
+
+.top-op , .radio button , .button {
+   display : flexible;
+   align-items : center;
+   flex-direction : column;
+   justify-content : center;
+}
